@@ -7,6 +7,7 @@
  * Based on the original lenovo_acpi.c by Sylvain Joyeux <sylvain.joyeux@m4x.org>, 2009
  */
 #include <acpi/acpi.h>
+#include <linux/module.h>
 
 MODULE_LICENSE("GPL");
 
